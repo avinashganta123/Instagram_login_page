@@ -1,2 +1,2 @@
 # Instagram_login_page
-Deployment process of Simple Project using CodeDeply &amp; Jenkins  
+Deployment process of Simple Project using CodeDeploy and Jenkins
